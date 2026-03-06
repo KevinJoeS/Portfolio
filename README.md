@@ -1,4 +1,4 @@
-MYProtfolio – Personal Portfolio of Kevin Joe
+[MYProtfolio – Personal Portfolio of Kevin Joe
 Welcome to my personal portfolio website.
 This project showcases my journey, skills, projects, and experience as an Artificial Intelligence / Machine Learning Student and Web Interface Developer.
 
@@ -59,3 +59,4 @@ GitHub: https://github.com/KevinJoeS
 © Copyright
 © 2026 Kevin Joe
 All rights reserved.
+](https://github.com/KevinJoeS)
