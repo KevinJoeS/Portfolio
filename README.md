@@ -9,7 +9,7 @@ The site is built using **HTML, CSS, and JavaScript**, designed with a modern da
 
 ## 🚀 Live Portfolio
 View the live site here:  
-**https://kevinjoes.github.io/Protfolio/**
+**https://kevinjoes.github.io/Portfolio/**
 
 ---
 
