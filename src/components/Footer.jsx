@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin, FaEnvelope, FaArrowUp } from 'react-icons/fa';
 const SOCIALS = [
   { icon: FaGithub, href: 'https://github.com/KevinJoeS', label: 'GitHub' },
   { icon: FaLinkedin, href: 'https://linkedin.com/in/kevinjoes', label: 'LinkedIn' },
-  { icon: FaEnvelope, href: 'mailto:kevinjoe@email.com', label: 'Email' },
+  { icon: FaEnvelope, href: 'mailto:joesofficial16@gmail.com', label: 'Email' },
 ];
 
 export default function Footer() {
