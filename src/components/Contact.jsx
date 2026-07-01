@@ -12,7 +12,7 @@ import emailjs from "@emailjs/browser";
 const SOCIALS = [
   { icon: FaGithub, href: 'https://github.com/KevinJoeS', label: 'GitHub', color: 'hover:text-white' },
   { icon: FaLinkedin, href: 'https://linkedin.com/in/kevinjoes', label: 'LinkedIn', color: 'hover:text-blue-400' },
-  { icon: FaEnvelope, href: 'mailto:kevinjoe@email.com', label: 'kevinjoe@email.com', color: 'hover:text-cyan-400' },
+  { icon: FaEnvelope, href: 'mailto:joesofficial16@gmail.com', label: 'joesofficial16@gmail.com', color: 'hover:text-cyan-400' },
   { icon: FaPhone, href: 'tel:+919894620565', label: '+91 9894620565', color: 'hover:text-emerald-400' },
 ];
 
