@@ -33,7 +33,7 @@ export default function ScrollProgressBar() {
   return (
     <div
       ref={barRef}
-      className="fixed top-0 left-0 right-0 h-0.5 z-[100] origin-left scale-x-0 bg-gradient-to-r from-blue-500 via-violet-500 to-cyan-400 will-change-transform"
+      className="fixed top-0 left-0 right-0 h-0.5 z-[100] origin-left scale-x-0 bg-black will-change-transform"
     />
   );
 }
