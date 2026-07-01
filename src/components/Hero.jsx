@@ -7,7 +7,7 @@ import { fadeIn, staggerContainer } from '../utils/animations';
 const SOCIALS = [
   { icon: FaGithub, href: 'https://github.com/KevinJoeS', label: 'GitHub' },
   { icon: FaLinkedin, href: 'https://linkedin.com/in/kevinjoes', label: 'LinkedIn' },
-  { icon: FaEnvelope, href: 'mailto:007kevinjoe@email.com', label: 'Email' },
+  { icon: FaEnvelope, href: 'mailto:joesofficial16@gmail.com', label: 'Email' },
 ];
 
 export default function Hero() {
